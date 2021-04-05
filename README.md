@@ -1,5 +1,7 @@
 # Employee Manager
 
+In this simple web application, i have used python-flask, sqlite. Where i performed CRUD operations for various functionalities.
+
 
 ### Screenshot
      Flask application
